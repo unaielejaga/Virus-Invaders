@@ -1,0 +1,6 @@
+ama=1180
+hua=1180
+Samu =1180
+antonio =1180
+root=1181
+unai=80
